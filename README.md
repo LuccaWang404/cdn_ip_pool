@@ -1,2 +1,3 @@
-# cdn_ip_pool
-DNS records of some CDN domains
+# CDN服务器IP地址池
+
+本仓库包含某些域名绑定的CDN服务器的一些以txt格式记录的DNS解析记录，方便测速后修改hosts以实现访问加速。
